@@ -1,3 +1,7 @@
+## Prerequisites
+Nailgun client 'ng': https://github.com/facebook/nailgun
+
+
 #### Start the nailgun server
 $ ./jhove-nailgun.sh
 
